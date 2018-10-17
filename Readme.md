@@ -1,0 +1,1 @@
+Website made for a company that offers services in the energetic area. It still needs some refactoring. It uses an html template, bootstrap and jquery, also a php library for internationalization.
